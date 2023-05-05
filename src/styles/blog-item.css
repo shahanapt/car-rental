@@ -2,6 +2,18 @@
     border: 1px solid #7c8a972e;
   }
   
+.blog__item img{
+  -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.blog__item:hover img{
+  -webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+
   .blog__time {
     border-top: 1px solid #7c8a972e;
   }
