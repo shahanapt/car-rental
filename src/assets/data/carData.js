@@ -1,5 +1,5 @@
 // import all images from assets/images directory
-import img01 from "../images/cars/nissan-offer.png";
+import img01 from "../images/cars/ylw-removebg-preview.png";
 import img02 from "../images/cars/offer-toyota.png";
 import img03 from "../images/cars/bmw-offer.png";
 import img04 from "../images/cars/nissan-offer.png";
@@ -11,12 +11,12 @@ import img08 from "../images/cars/mercedes-offer.png";
 const carData = [
   {
     id: 1,
-    brand: "Tesla",
+    brand: "Ferrari",
     rating: 112,
-    carName: "Tesla Malibu",
+    carName: "Ferrari Lamborghini",
     imgUrl: img01,
     model: "Model 3",
-    price: 50,
+    price: 300,
     speed: "20kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
