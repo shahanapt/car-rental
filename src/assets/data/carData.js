@@ -2,7 +2,7 @@
 import img01 from "../images/cars/ylw-removebg-preview.png";
 import img02 from "../images/cars/offer-toyota.png";
 import img03 from "../images/cars/bmw-offer.png";
-import img04 from "../images/cars/nissan-offer.png";
+import img04 from "../images/cars/ylw-removebg-preview.png";
 import img05 from "../images/cars/offer-toyota.png";
 import img06 from "../images/cars/mercedes-offer.png";
 import img07 from "../images/cars/toyota-offer-2.png";
@@ -59,12 +59,12 @@ const carData = [
 
   {
     id: 4,
-    brand: "Nissan",
+    brand: "Ferrari",
     rating: 102,
-    carName: "Nissan Mercielago",
+    carName: "Ferrari Lamborghini",
     imgUrl: img04,
     model: "Model-2022",
-    price: 70,
+    price: 200,
     speed: "20kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
