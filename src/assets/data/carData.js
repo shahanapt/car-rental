@@ -1,8 +1,8 @@
 // import all images from assets/images directory
 import img01 from "../images/cars/ylw-removebg-preview.png";
-import img02 from "../images/cars/offer-toyota.png";
+import img02 from "../images/cars/toyo.png";
 import img03 from "../images/cars/bmw-offer.png";
-import img04 from "../images/cars/ylw-removebg-preview.png";
+import img04 from "../images/cars/nissan.png";
 import img05 from "../images/cars/offer-toyota.png";
 import img06 from "../images/cars/mercedes-offer.png";
 import img07 from "../images/cars/toyota-offer-2.png";
@@ -28,11 +28,11 @@ const carData = [
   {
     id: 2,
     brand: "Toyota",
-    rating: 102,
+    rating: 120,
     carName: "Toyota Aventador",
     imgUrl: img02,
     model: "Model-2022",
-    price: 60,
+    price: 300,
     speed: "20kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
